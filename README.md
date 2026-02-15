@@ -1,6 +1,4 @@
-# Oracle Pluggable Database Assignment II
-
-**Student Name:** Jose  
+**Student Name:** Uwase Rubagumya Jose 
 **Student ID:** 29181  
 **Course:** Database Development with PL/SQL (INSY 8311)  
 **Instructor:** Eric Maniraguha  
