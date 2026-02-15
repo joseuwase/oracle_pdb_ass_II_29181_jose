@@ -157,7 +157,7 @@ Access and demonstrate Oracle Enterprise Manager dashboard.
 
 ## Academic Integrity Statement
 
-I, **UWASE RUBAGUMYA Josee (29181), declare that this assignment is my own work.
+I, **UWASE RUBAGUMYA Josee (29181), declare that  is my own work.
 
 All commands were executed by me in my Oracle Database, and all screenshots are original.
 
