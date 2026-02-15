@@ -66,8 +66,9 @@ SELECT username FROM dba_users WHERE username = 'JOSE_PLSQLAUCA_29181';
 ```
 
 ### Evidence
-![PDB Creation](screenshots/task1_pdb_creation.png)
-![User Creation](screenshots/task1_user_creation.png)
+(<img width="422" height="77" alt="Screenshot 2026-02-15 183300" src="https://github.com/user-attachments/assets/c0cacbe2-2cfa-444e-83e0-c2ec5b66bf95" />
+![PDB open state](https://github.com/user-attachments/assets/0f21db98-aee4-456c-8090-deef317d6a82)
+![User created](https://github.com/user-attachments/assets/a6efe621-3472-437b-b73a-9aa272eccb4b)
 
 ---
 
@@ -107,8 +108,11 @@ SHOW PDBS;
 ```
 
 ### Evidence
-![Temporary PDB Created](screenshots/task2_temp_pdb_created.png)
-![PDB Deleted](screenshots/task2_pdb_deleted.png)
+
+![tempory](https://github.com/user-attachments/assets/93e7579a-813c-4078-a41f-95e424593698)
+![VERIFY](https://github.com/user-attachments/assets/1fa28299-6325-4907-aa33-eaa0319e5107)
+![Delect PDB](https://github.com/user-attachments/assets/46fdccf3-253e-48e7-9d42-0453ea719da8)
+![TEMPORARY  PDB exist](https://github.com/user-attachments/assets/69cca188-8285-485b-9d0c-adf134ab2151)
 
 ---
 
@@ -124,7 +128,8 @@ Access and demonstrate Oracle Enterprise Manager dashboard.
 - **Dashboard Status:** Active and operational
 
 ### Evidence
-![OEM Dashboard](screenshots/task3_oem_dashboard.png)
+![OEM Dashboard](![OEM dashboard](https://github.com/user-attachments/assets/52ff5c16-cf8a-492e-854d-8df560a6c82d)
+
 
 ---
 
@@ -152,13 +157,13 @@ Access and demonstrate Oracle Enterprise Manager dashboard.
 
 ## Academic Integrity Statement
 
-I, **Jose (Student ID: 29181)**, hereby declare that:
-- All work submitted in this assignment is my own
-- All commands were executed individually on my own Oracle installation
-- All screenshots are original and taken from my own database environment
-- No AI tools, ChatGPT, or external assistance were used to generate commands or solutions
-- No collaboration with classmates occurred during this assignment
-- This work has not been copied or shared with others
+I, **UWASE RUBAGUMYA Josee (29181), declare that this assignment is my own work.
+
+All commands were executed by me in my Oracle Database, and all screenshots are original.
+
+I have not copied from or collaborated with anyone.
+
+This assignment reflects my knowledge and work in managing Oracle Pluggable Databases (PDBs), including resolving naming issues when they arose.
 
 
 
